@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{80B206D3-0C3C-9935-61FC-263A9E4525CD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FacebookManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FacebookManager.cs" Line="9" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GameCore PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
